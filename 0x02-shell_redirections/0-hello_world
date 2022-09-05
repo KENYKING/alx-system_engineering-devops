@@ -1,2 +1,2 @@
 #!/bin/bash
-cat Hello, World|fmt|lp|lpr 
+./0-hello_world |cat -e Hello, Word$ 
